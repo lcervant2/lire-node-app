@@ -25,10 +25,10 @@ LIRI will be a CLA node app that takes in parameters and gives you back data.
 
 # Information technology
  
- CLI
- GitHub
- Node.js
- JavaScript
+ *CLI
+ *GitHub
+ *Node.js
+ *JavaScript
 
 
 
