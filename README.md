@@ -15,13 +15,13 @@ LIRI will be a CLA node app that takes in parameters and gives you back data.
 4 - Used the Command life for:
 >
 	* My tweets (API)
-	>
+	
 	* Spotify (API)
-	>
+	
 	* Movie (API)
-	>
+	
 	* Do-what-it-says
-	>
+	
 
 # Information technology
  
