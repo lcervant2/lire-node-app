@@ -20,7 +20,7 @@
   "dependencies": {
     "dotenv": "^5.0.0",
     "node-spotify-api": "^1.0.7",
-    "request": "^2.83.0",
+    "request": "^2.88.2",
     "twitter": "^1.7.1"
   }
 }
